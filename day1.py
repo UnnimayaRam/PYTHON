@@ -90,6 +90,17 @@
 
 # calculator
 
+# a=[1,2,3]
+# print(a)
+#
+# print(type(a))
+# print(len(a))
+ b=["unni","maya","ram"]
+ b.append("kiran")
+ print(b)
+
+
+
 
 
 
