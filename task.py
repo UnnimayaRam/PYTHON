@@ -17,4 +17,5 @@ print(c[:3])
 #7print the reversal of the string
 c="futuralabs"[::-1]
 print(c)
+print(b)
 
